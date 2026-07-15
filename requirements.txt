@@ -1,0 +1,5 @@
+rich
+opencv-python
+pygame
+colorama
+pywin32
